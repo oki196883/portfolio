@@ -34,3 +34,4 @@
 - [Kaggle](https://www.kaggle.com/oki196883)
 
 ## 連絡先
+- moikawa196883_at_gmail.com
