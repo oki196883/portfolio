@@ -30,7 +30,7 @@
 - 賃貸物件の家賃予測モデル(準備中)
 
 ## 競技プログラミング
-- [Atcoder](https://atcoder.jp/users/oki_) 茶色ランク
+- [Atcoder](https://atcoder.jp/users/oki_) アルゴリズム部門 茶色ランク
 - [Kaggle](https://www.kaggle.com/oki196883)
 
 ## 連絡先
